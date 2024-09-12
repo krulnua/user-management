@@ -1,0 +1,4 @@
+[2024-09-12 18:33:49] local.ERROR: Cannot use Illuminate\Http\Request as Request because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use Illuminate\\Http\\Request as Request because the name is already in use at C:\\laragon\\www\\user-management\\app\\Http\\Controllers\\AdminController.php:9)
+[stacktrace]
+#0 {main}
+"} 
